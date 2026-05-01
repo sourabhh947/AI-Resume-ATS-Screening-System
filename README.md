@@ -22,17 +22,26 @@ An intelligent AI-powered Resume Screening System that analyzes resumes and rank
 📂 Project Structure
 
 RESUME_SCREENING_PROJECT/
-│
+
+
 ├── app.py
+
 ├── utils.py
+
 │
 ├── data/
+
 │   ├── resumes/
+
 │   ├── job_description.txt
+
 │   └── ATS_Results.xlsx
+
 │
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 
