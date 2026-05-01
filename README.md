@@ -20,6 +20,7 @@ An intelligent AI-powered Resume Screening System that analyzes resumes and rank
 5. Scikit-learn (for similarity scoring)
 
 📂 Project Structure
+
 RESUME_SCREENING_PROJECT/
 │
 ├── app.py
