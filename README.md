@@ -16,7 +16,7 @@ An intelligent AI-powered Resume Screening System that analyzes resumes and rank
 1. Python
 2. Streamlit
 3. Natural Language Processing (NLP)
-4. PyPDF2 / PDFMiner (for text extraction)
+4. PyPDF2 (for text extraction)
 5. Scikit-learn (for similarity scoring)
 
 📂 Project Structure
